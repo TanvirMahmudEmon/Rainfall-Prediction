@@ -9,5 +9,5 @@ Very good resources, MUST CHECK:
 ### LSTM
 - Easy
   - https://github.com/llSourcell/How-to-Predict-Stock-Prices-Easily-Demo/blob/master/stockdemo.ipynb
-https://machinelearningmastery.com/multivariate-time-series-forecasting-lstms-keras/
-https://www.kaggle.com/pablocastilla/predict-stock-prices-with-lstm
+- https://machinelearningmastery.com/multivariate-time-series-forecasting-lstms-keras/
+- https://www.kaggle.com/pablocastilla/predict-stock-prices-with-lstm
